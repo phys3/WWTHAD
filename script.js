@@ -10,19 +10,19 @@ let data = [
 answer: ["not now", "no", "yes", "mayb's lataa"],
 correct: "c"
 }, 
-{question: "how do you like your developers",
+{question: "how do you like your developers?",
 answer: ["smart and talented", "tall", "loud", "i dont"],
 correct: "a"
 }, 
-{question: "as an employer you are",
+{question: "as an employer you are?",
 answer: ["the worst", "kind and fair", "exploitative", "no comment"],
 correct: "b"
 }, 
-{question: "do you want your developers to be",
+{question: "do you want your developers to be?",
 answer: ["drug addicts", "proactive and self-sufficient", "cristians", "philosophically sound"],
 correct: "b"
 }, 
-{question: "are you ready to embark on this proffesional journey with me",
+{question: "are you ready to embark on this proffesional journey with me?",
 answer: ["i'd be happy to", "nooooo", "hmm...", "this is moving too fast"],
 correct: "a"
 }
